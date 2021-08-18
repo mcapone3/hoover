@@ -105,7 +105,6 @@ while (instructArray.length > 0){
     }
 
 }
-//print ggwp
 console.log(currentX,currentY);
 console.log(dirtCount);
 
